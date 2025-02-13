@@ -54,9 +54,9 @@ This project is licensed under the **MIT License**. 📝✅
 
 ## 📞 Contact 💬
 
-📧 **Email**: support@electricbilling.com ✉️  
-🌐 **Website**: [ElectricityBillingSystem.com](#) 🌍  
-📱 **Follow us**: [Twitter](#) | [LinkedIn](#) | [GitHub](#) 📢
+📧 **Email**: nimmanirishik@gmail.com ✉️  
+🔗 **LinkedIn**: [linkedin.com/in/nimmani-rishik-66b632287](https://linkedin.com/in/nimmani-rishik-66b632287) 🌍  
+📱 **Instagram**: [rishik_3142](https://instagram.com/rishik_3142) 📢  
 
 ---
 
